@@ -48,5 +48,5 @@ C++          25 mins         █░░░░░░░░░░░░░░░░
 
 # Projects
 <a href="https://www.linkedin.com/in/rushi-patel-b371a9209/">
-  <img align="left" alt="Rushi's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Rushi's Linkedin" width="100px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
