@@ -72,3 +72,16 @@ Created a high-performance Uber Clone application that allows users to plan a tr
 UI Kit | MVVM | Firebase | Cocoa Pods | Fire store API | Swift | Map Kit | Geo Fire | Location Search | Create Users | Authenticate Users | Programmatically developed UI | Cancel and Create trip | Side menu with user profile | Advanced animations.
 </p>
 (** Click the logo to see more about this project **)
+
+##
+### Weather API <a href="https://github.com/rushi-pa/Weather-app">
+  <img align="left" alt="Rushi's Linkedin" width="100px" src="https://cdn.dribbble.com/users/915711/screenshots/5827243/weather_icon3.png" />
+</a>
+ It fetches data from https://openweathermap.org website and using JSON decoder to map out the data passed by API.
+ The watch app is an extension of the iPhone app. So, whenever a user enters any city name data will be changed in both iPhone and watch using WC Session.
+</p></p></p>
+</p>Key Technologies & Features:
+</p>
+UI Kit | Singleton | Cocoa Pods | Open Weather API | Swift | JSON Parsing | Watch Connectivity.
+</p>
+(** Click the logo to see more about this project **)
