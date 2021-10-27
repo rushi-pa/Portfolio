@@ -47,7 +47,7 @@ C++          25 mins         █░░░░░░░░░░░░░░░░
 
 
 # Projects
-### Twitter Clone <a href="https://www.linkedin.com/in/rushi-patel-b371a9209/">
+### Twitter Clone <a href="https://github.com/rushi-pa/Twitter-Clone-app">
   <img align="left" alt="Rushi's Linkedin" width="100px" src="https://i.etsystatic.com/22231521/r/il/4d30c8/2591560002/il_570xN.2591560002_cwao.jpg" />
 </a>
  Delivered an MVP version of Twitter with a strictly Swift UI using the MVVM architecture.
