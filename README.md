@@ -89,3 +89,16 @@ UI Kit | Singleton | Cocoa Pods | Open Weather API | Swift | JSON Parsing | Watc
 # Education
 <h3>Seneca College</h1>
 Advanced Diploma, Computer Programming and Analysis Sep 2019 - Sep 2021
+
+# Work Expirence
+### Expensex
+Sep 2021 - Present
+o Sole iOS Developer of the app that tracks user's expenses and income. Gives user chart view
+analytics for their weekly, monthly, and yearly expense.
+o Users will be able to select their monthly expense goal, if monthly expense exceeds the goal
+amount; app will notify the user by local notifications and in-app notification.
+o Using Swift UI & UI-Kit to build the application which has tons of cool custom animations
+that will ease user experience and make app visit a better experience.
+o User will have this application available in android as well.
+Key Technologies:
+Swift UI | UI-Kit | Core Data | Firebase | Chart View SDK | MVVM.
