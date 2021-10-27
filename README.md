@@ -58,6 +58,8 @@ C++          25 mins         █░░░░░░░░░░░░░░░░
 </p>
 Swift UI | MVVM | Firebase | Cocoa Pods | Data Parser SDK | Fire store API | Swift Package manger Direct Messaging | Create users | Create a user profile | Authenticate users with Firebase | Search for users | Upload tweets | Home feed with tweets | Like tweets |
 Follow/Unfollow users from profile | Logging in and logging out.
+</p>
+(** Click the logo to see more about this project **)
 
 ##
 ### Uber Clone <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLOLRvQdGxjfoqQumZhoh4OscfD1rRyYPdAQ&usqp=CAU">
@@ -68,3 +70,5 @@ Created a high-performance Uber Clone application that allows users to plan a tr
 </p>Key Technologies & Features:
 </p>
 UI Kit | MVVM | Firebase | Cocoa Pods | Fire store API | Swift | Map Kit | Geo Fire | Location Search | Create Users | Authenticate Users | Programmatically developed UI | Cancel and Create trip | Side menu with user profile | Advanced animations.
+</p>
+(** Click the logo to see more about this project **)
