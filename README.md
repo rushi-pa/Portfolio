@@ -50,7 +50,6 @@ C++          25 mins         █░░░░░░░░░░░░░░░░
 ### Twitter Clone <a href="https://www.linkedin.com/in/rushi-patel-b371a9209/">
   <img align="left" alt="Rushi's Linkedin" width="100px" src="https://i.etsystatic.com/22231521/r/il/4d30c8/2591560002/il_570xN.2591560002_cwao.jpg" />
 </a>
-Twitter-Clone | Link
  Delivered an MVP version of Twitter with a strictly Swift UI using the MVVM architecture.
  Build an application completely from scratch, starting with the User Interface skeleton, and
  working our way up to integrating our API with Fire store and data models.
@@ -61,6 +60,11 @@ Swift UI | MVVM | Firebase | Cocoa Pods | Data Parser SDK | Fire store API | Swi
 Follow/Unfollow users from profile | Logging in and logging out.
 
 ##
-### Twitter Clone <a href="https://www.linkedin.com/in/rushi-patel-b371a9209/">
+### Uber Clone <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLOLRvQdGxjfoqQumZhoh4OscfD1rRyYPdAQ&usqp=CAU">
   <img align="left" alt="Rushi's Linkedin" width="100px" src="https://i.etsystatic.com/22231521/r/il/4d30c8/2591560002/il_570xN.2591560002_cwao.jpg" />
 </a>
+Created a high-performance Uber Clone application that allows users to plan a trip from one destination to another using Geo Fire and much more.
+</p></p></p>
+</p>Key Technologies & Features:
+</p>
+UI Kit | MVVM | Firebase | Cocoa Pods | Fire store API | Swift | Map Kit | Geo Fire | Location Search | Create Users | Authenticate Users | Programmatically developed UI | Cancel and Create trip | Side menu with user profile | Advanced animations.
