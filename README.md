@@ -87,5 +87,5 @@ UI Kit | Singleton | Cocoa Pods | Open Weather API | Swift | JSON Parsing | Watc
 (** Click the logo to see more about this project **)
 
 # Education
-<h1>Seneca College</h1>
+<h3>Seneca College</h1>
 Advanced Diploma, Computer Programming and Analysis Sep 2019 - Sep 2021
