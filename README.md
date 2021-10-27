@@ -50,11 +50,10 @@ C++          25 mins         █░░░░░░░░░░░░░░░░
 ### Twitter Clone <a href="https://www.linkedin.com/in/rushi-patel-b371a9209/">
   <img align="left" alt="Rushi's Linkedin" width="100px" src="https://i.etsystatic.com/22231521/r/il/4d30c8/2591560002/il_570xN.2591560002_cwao.jpg" />
 </a>
-• Twitter-Clone | Link o
-o
+Twitter-Clone | Link
  Delivered an MVP version of Twitter with a strictly Swift UI using the MVVM architecture.
  Build an application completely from scratch, starting with the User Interface skeleton, and
  working our way up to integrating our API with Fire store and data models.
-Key Technologies & Features:
+</p>Key Technologies & Features:
 Swift UI | MVVM | Firebase | Cocoa Pods | Data Parser SDK | Fire store API | Swift Package manger Direct Messaging | Create users | Create a user profile | Authenticate users with Firebase | Search for users | Upload tweets | Home feed with tweets | Like tweets |
 Follow/Unfollow users from profile | Logging in and logging out.
