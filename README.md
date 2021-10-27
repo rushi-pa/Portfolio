@@ -102,3 +102,13 @@ that will ease user experience and make app visit a better experience.</p>
 o User will have this application available in android as well.</p>
 </p></p>Key Technologies:</p>
 Swift UI | UI-Kit | Core Data | Firebase | Chart View SDK | MVVM.
+
+### FreeLance
+Mar 2021 - Apr 2021</p>
+o Worked as a team with a fellow iOS developer to develop a high-end personalized stock
+monitoring app that fetches user-shortlisted stocks using Yahoo Stocks API.</p>
+o Added extra features for the clients such as notifications and alerts for price drops of their
+short-listed stocks and user's portfolio.</p>
+o Application developed using MVC architecture to allow maintenance of code.</p>
+</p></p>Key Technologies:</p>
+UI Kit | MVC | Yahoo API | Core Data.
