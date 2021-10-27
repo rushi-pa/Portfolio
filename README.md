@@ -100,5 +100,5 @@ amount; app will notify the user by local notifications and in-app notification.
 o Using Swift UI & UI-Kit to build the application which has tons of cool custom animations
 that will ease user experience and make app visit a better experience.</p>
 o User will have this application available in android as well.</p>
-</p></p>Key Technologies:
+</p></p>Key Technologies:</p>
 Swift UI | UI-Kit | Core Data | Firebase | Chart View SDK | MVVM.
