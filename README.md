@@ -64,7 +64,7 @@ Follow/Unfollow users from profile | Logging in and logging out.
   <img align="left" alt="Rushi's Linkedin" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLOLRvQdGxjfoqQumZhoh4OscfD1rRyYPdAQ&usqp=CAU" />
 </a>
 Created a high-performance Uber Clone application that allows users to plan a trip from one destination to another using Geo Fire and much more.
-</p></p></p></p></p>
+</p></p></p></p></p></p></p></p></p></p>
 </p>Key Technologies & Features:
 </p>
 UI Kit | MVVM | Firebase | Cocoa Pods | Fire store API | Swift | Map Kit | Geo Fire | Location Search | Create Users | Authenticate Users | Programmatically developed UI | Cancel and Create trip | Side menu with user profile | Advanced animations.
